@@ -18,6 +18,7 @@ One Line description of project goes here
   * [Installation](#installation)
 * [Usage](#usage)
 * [Results and Demo](#results-and-demo)
+* [Future Work](#future-work)
 * [Troubleshooting](#troubleshooting)
 * [Authors](#authors)
 * [Mentors](#mentors)
@@ -27,10 +28,10 @@ One Line description of project goes here
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+[![Product Name Screen Shot][product-screenshot]](https://example.com)  
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Aim and Description of project. 
+Aim and Description of project.  
+Refer this [documentation](https://link/to/report/)
 
 ### Tech Stack
 This section should list the technologies you used for this project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -53,7 +54,9 @@ This section should list the technologies you used for this project. Leave any a
     ├── ...
     ├── tools                   # Tools and utilities
     ├── LICENSE
-    └── README.md  
+    ├── README.md 
+    ├── Setup.md                # If Installation instructions are lengthy
+    └── todo.md                 # If Future developments and current status gets lengthy
     
 
 <!-- GETTING STARTED -->
@@ -61,6 +64,7 @@ This section should list the technologies you used for this project. Leave any a
 
 ### Prerequisites
 
+* See [SETUP.md](https://link/to/setup.md) if there are plenty of instructions
 * List of softwares with version tested on 
 ```sh
 How to install them
@@ -91,9 +95,22 @@ How to run the driver code
 
 <!-- RESULTS AND DEMO -->
 ## Results and Demo
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. 
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space.  
 [**result screenshots**](https://result.png)
-![**result gif or video**](https://result.gif)
+![**result gif or video**](https://result.gif)  
+
+| Use  |  Table  |
+|:----:|:-------:| 
+| For  | Comparison|
+
+
+<!-- FUTURE WORK -->
+## Future Work
+* See [todo.md](https://todo.md) for seeing developments of this project
+- [x] Task 1
+- [x] Task 2
+- [ ] Task 3
+- [ ] Task 4
 
 
 <!-- TROUBLESHOOTING -->
