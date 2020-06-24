@@ -142,4 +142,4 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 <!-- LICENSE -->
 ## License
-Describe your License for your project. 
+Describe your [License](LICENSE) for your project. 
