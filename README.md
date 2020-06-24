@@ -1,7 +1,9 @@
+If you are not familiar with writing readme refer [this](https://guides.github.com/features/mastering-markdown/). Don't include this line in readme :smiley:   
+
 [![Stargazers][stars-shield]][stars-url]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
+[![License][license-shield]][license-url]  
 
 # Project Title  
 One Line description of project goes here  
@@ -96,7 +98,7 @@ How to run the driver code
 <!-- RESULTS AND DEMO -->
 ## Results and Demo
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space.  
-[**result screenshots**](https://result.png)
+[**result screenshots**](https://result.png)  
 ![**result gif or video**](https://result.gif)  
 
 | Use  |  Table  |
@@ -119,7 +121,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 
 <!-- AUTHORS -->
-## Authors
+## Authors :sunglasses:
 * [Member Name](https://github.com/id)
 * [Member Name](https://github.com/id)
 
