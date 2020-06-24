@@ -1,2 +1,125 @@
-# readmeTemplateEklavya20
-Readme template for projects made under mentorship programme Eklavya 2020 hosted by SRA VJTI
+[![Stargazers][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+[![License][license-shield]][license-url]
+
+# Project Title  
+One Line description of project goes here  
+
+
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [About the Project](#about-the-project)
+  * [Tech Stack](#tech-stack)
+  * [File Structure](#file-structure)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Results and Demo](#results-and-demo)
+* [Troubleshooting](#troubleshooting)
+* [Authors](#authors)
+* [Mentors](#mentors)
+* [Acknowledgements and Resources](#acknowledgements-and-resources)
+* [License](#license)
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+Aim and Description of project. 
+
+### Tech Stack
+This section should list the technologies you used for this project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* [Coppeliasim](https://www.coppeliarobotics.com/)
+* [OpenCV](https://opencv.org/)
+* [ROS](https://www.ros.org/)  
+
+### File Structure
+    .
+    ├── app.py                  # Explain the function preformed by this file in short
+    ├── docs                    # Documentation files (alternatively `doc`)
+    │   ├── report.pdf          # Project report
+    │   ├── results             # Folder containing screenshots, gifs, videos of results
+    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── ...
+    ├── test                    # Test files (alternatively `spec` or `tests`)
+    │   ├── benchmarks          # Load and stress tests
+    │   ├── integration         # End-to-end, integration tests (alternatively `e2e`)
+    │   └── unit                # Unit tests
+    ├── ...
+    ├── tools                   # Tools and utilities
+    ├── LICENSE
+    └── README.md  
+    
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+### Prerequisites
+
+* List of softwares with version tested on 
+```sh
+How to install them
+```
+
+* **ESP-IDF v4.0 and above**
+
+  You can visit the [ESP-IDF Programmming Guide](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html#installation-step-by-step) for the installation steps.
+  
+* See if you can make requirements.txt  
+```sh
+pip install -r "requirements.txt"
+```
+
+### Installation
+1. Clone the repo
+```sh
+git clone https://github.com/your_username_/Project-Name.git
+```
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+```
+How to run the driver code
+```
+
+
+<!-- RESULTS AND DEMO -->
+## Results and Demo
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. 
+[**result screenshots**](https://result.png)
+![**result gif or video**](https://result.gif)
+
+
+<!-- TROUBLESHOOTING -->
+## Troubleshooting
+* Common errors while configuring the project
+
+
+<!-- AUTHORS -->
+## Authors
+* [Member Name](https://github.com/id)
+* [Member Name](https://github.com/id)
+
+
+<!-- MENTORS -->
+## Mentors
+* [Mentor Name](https://github.com/id)
+* [Mentor Name](https://github.com/id)
+
+
+<!-- ACKNOWLEDGEMENTS AND REFERENCES -->
+## Acknowledgements and Resources
+* [SRA VJTI](http://sra.vjti.info/)  
+* Refered [this](https://link) for achieving this  
+...
+
+
+<!-- LICENSE -->
+## License
+Describe your License for your project. 
