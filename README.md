@@ -135,7 +135,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 <!-- ACKNOWLEDGEMENTS AND REFERENCES -->
 ## Acknowledgements and Resources
-* [SRA VJTI](http://sra.vjti.info/)  
+* [SRA VJTI](http://sra.vjti.info/) Eklavya 2020  
 * Refered [this](https://link) for achieving this  
 ...
 
