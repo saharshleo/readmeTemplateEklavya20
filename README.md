@@ -1,11 +1,6 @@
 If you are not familiar with writing readme refer [this](https://guides.github.com/features/mastering-markdown/). 
 > Don't include this line in readme :smiley:   
 
-[![Stargazers][stars-shield]][stars-url]
-[![Forks][forks-shield]][forks-url]
-[![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]  
-
 # Project Title  
 One Line description of project goes here  
 
