@@ -18,8 +18,7 @@ One Line description of project goes here
 * [Results and Demo](#results-and-demo)
 * [Future Work](#future-work)
 * [Troubleshooting](#troubleshooting)
-* [Authors](#authors)
-* [Mentors](#mentors)
+* [Contributors](#contributors)
 * [Acknowledgements and Resources](#acknowledgements-and-resources)
 * [License](#license)
 
@@ -116,16 +115,10 @@ Use this space to show useful examples of how a project can be used. Additional 
 * Common errors while configuring the project
 
 
-<!-- AUTHORS -->
-## Authors :sunglasses:
+<!-- CONTRIBUTORS -->
+## Contributors
 * [Member Name](https://github.com/id)
 * [Member Name](https://github.com/id)
-
-
-<!-- MENTORS -->
-## Mentors
-* [Mentor Name](https://github.com/id)
-* [Mentor Name](https://github.com/id)
 
 
 <!-- ACKNOWLEDGEMENTS AND REFERENCES -->
