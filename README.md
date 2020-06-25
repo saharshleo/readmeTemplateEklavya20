@@ -31,7 +31,7 @@ Aim and Description of project.
 Refer this [documentation](https://link/to/report/)
 
 ### Tech Stack
-This section should list the technologies you used for this project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section should list the technologies you used for this project. Leave any add-ons/plugins for the prerequisite section. Here are a few examples.
 * [Coppeliasim](https://www.coppeliarobotics.com/)
 * [OpenCV](https://opencv.org/)
 * [ROS](https://www.ros.org/)  
@@ -41,7 +41,7 @@ This section should list the technologies you used for this project. Leave any a
     ├── app.py                  # Explain the function preformed by this file in short
     ├── docs                    # Documentation files (alternatively `doc`)
     │   ├── report.pdf          # Project report
-    │   ├── results             # Folder containing screenshots, gifs, videos of results
+    │   └── results             # Folder containing screenshots, gifs, videos of results
     ├── src                     # Source files (alternatively `lib` or `app`)
     ├── ...
     ├── test                    # Test files (alternatively `spec` or `tests`)
